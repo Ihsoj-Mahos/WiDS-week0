@@ -14,4 +14,4 @@ Your assignment will be scored on the basis of :
 
 The deadline for the submission of this assignment is 24 December, 11:59 PM
 
-Any doubts/suggestions can be asked on the group. All resources required including the libraries to be used, the dataset to be used have been linked in the notebook. The dataset is present in the repository as well.
+Any doubts/suggestions can be asked on the group. All resources required including the libraries to be used, the dataset to be used have been linked in the notebook.
